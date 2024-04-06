@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ipanps&label=Profile%20views&color=0091ff&style=flat" alt="ipanps" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ipanorchaco" target="blank"><img src="https://img.shields.io/twitter/follow/ipanorchaco?logo=twitter&style=for-the-badge" alt="ipanorchaco" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ipanorchaco" target="blank"><img src="https://img.shields.io/twitter/follow/ipanorchaco?logo=twitter&style=for-the-badge" alt="ipannjs" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
