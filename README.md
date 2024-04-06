@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ipanps&label=Profile%20views&color=0091ff&style=flat" alt="ipanps" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ipannjs" target="blank"><img src="https://img.shields.io/twitter/follow/ipanorchaco?logo=twitter&style=for-the-badge" alt="ipannjs" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ipannjs" target="blank"><img src="https://img.shields.io/twitter/follow/ipannjs?logo=twitter&style=for-the-badge" alt="ipannjs" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ipanorchaco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ipannjs" height="30" width="40" /></a>
+<a href="https://twitter.com/ipannjs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ipannjs" height="30" width="40" /></a>
 <a href="https://instagram.com/ipan.js" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ipan.js" height="30" width="40" /></a>
 </p>
 
